@@ -5,7 +5,10 @@ int main() {
 	
 	std::cout << "Введите массу: ";
 	std::cin >> m;
-     std::cout << "Введиет силу тяги: ";
+    std::cout << "Введиет силу тяги: ";
 	std::cin >> F;
 	std::cout << "Введите секунды: ";
+	std::cin >> t;
+
+
 	
