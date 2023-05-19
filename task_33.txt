@@ -1,8 +1,9 @@
 include <iostream>
 
 int main() {
-    float m, F, t, a;
+	float m, F, t, a;
 	
 	std::cout << "Введите массу: ";
+	std::cin >> m;
     
 	
